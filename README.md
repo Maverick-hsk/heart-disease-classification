@@ -81,15 +81,15 @@ The dataset contains medical attributes such as:
 ---
 
 ## 📂 Project Structure
-
+```
 heart-disease-classification/
-│
+|
 ├── end-to-end-heart-disease-classification.ipynb
 ├── data/
 ├── models/
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 
