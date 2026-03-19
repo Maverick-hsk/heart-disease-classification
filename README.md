@@ -81,6 +81,7 @@ The dataset contains medical attributes such as:
 ---
 
 ## 📂 Project Structure
+
 heart-disease-classification/
 │
 ├── end-to-end-heart-disease-classification.ipynb
@@ -105,9 +106,7 @@ heart-disease-classification/
    jupyter notebook end-to-end-heart-disease-classification.ipynb
 
 ## Results 
-* Multiple models were trained and compared to identify the best performer
-* Ensemble methods such as Random Forest generally provided strong performance
-* Model performance can be further improved through hyperparameter tuning and feature engineering
+* Multiple models were trained and compared(The Logistic Regression gave the best accuracy close to 89%).
 
 ## Future Improvements
 
